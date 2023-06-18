@@ -1,0 +1,18 @@
+                                                                                                                                                                            ASSIGNMENT-1
+
+
+
+1. HTML (Hyper Text Markup Language) is a language used to create and structure content on the web.
+
+2. CSS (Cascading Style Sheet) is a stylesheet language used to describe the look and formatting of a document written in HTML.
+     It isused to define the styles and elements on a web page such as font,color,size and layout of text and other elements.
+
+3. JavaScript was created to add interactive elements to web pages and make them more dynamic.Before JavaScript,web pages were static and could not display text and images.JavaScript allowed web developers to add interactive elements like animations to web pages.
+
+4.JavaScript was created in 1995 by Brendan Eich while he was working at Netscape Communications. It was originally named Mocha, then changed to LiveScript before finally being named JavaScript. JavaScript was quickly adopted by web developers and became one of the most popular programming languages for web development.
+
+ECMAScript is a scripting language specification that was created to standardize JavaScript. The first version of ECMAScript was released in 1997, and it has been updated several times since then. ECMAScript 6, which was released in 2015, introduced many new features to the language, including arrow functions, classes, and template literals.
+
+Today, JavaScript and ECMAScript are used by millions of web developers to create interactive and dynamic web pages. They are constantly evolving to meet the needs of modern web development, and new features and updates are released regularly.
+
+
